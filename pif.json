@@ -1,8 +1,6 @@
 {
-  "FINGERPRINT": "google/panther_beta/panther:16/BP22.250325.007/13352765:user/release-keys",
+  "FINGERPRINT": "google/husky_beta/husky:16/BP31.250502.008/13497110:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 7",
-  "SECURITY_PATCH": "2025-04-05",
-  "DEVICE_INITIAL_SDK_INT": 34,
-  "spoofVendingSdk": 1
+  "MODEL": "Pixel 8 Pro",
+  "SECURITY_PATCH": "2025-05-05"
 }
