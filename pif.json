@@ -1,23 +1,7 @@
 {
+  "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250325.012/13467521:user/release-keys",
   "MANUFACTURER": "Google",
   "MODEL": "Pixel 6",
-  "FINGERPRINT": "google/oriole_beta/oriole:16/BP31.250502.008/13497110:user/release-keys",
-  "BRAND": "google",
-  "PRODUCT": "oriole_beta",
-  "DEVICE": "oriole",
-  "RELEASE": "16",
-  "ID": "BP31.250502.008",
-  "INCREMENTAL": "13497110",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "SECURITY_PATCH": "2025-05-05",
-  "DEVICE_INITIAL_SDK_INT": "32",
-  "*.build.id": "BP31.250502.008",
-  "*.security_patch": "2025-05-05",
-  "*api_level": "32",
-  "spoofBuild": "1",
-  "spoofProps": "0",
-  "spoofProvider": "0",
-  "spoofSignature": "0",
-  "verboseLogs": "0"
+  "SECURITY_PATCH": "2025-04-05",
+  "spoofVendingSdk": false
 }
