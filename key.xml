@@ -1,4 +1,4 @@
-<?xml version="1.0"?><AndroidAttestation><NumberOfKeyboxes>1</NumberOfKeyboxes><Keybox DeviceID="fateh7"><Key algorithm="ecdsa"><PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
+<?xml version="1.0"?><AndroidAttestation><NumberOfKeyboxes>1</NumberOfKeyboxes><Keybox DeviceID="ms"><Key algorithm="ecdsa"><PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIFl4y0MLhmmAPrsWegXAxWIFkqcB2nz9mkmXi3Ui5cMGoAoGCCqGSM49AwEHoUQDQgAEvxvu/9/BCRbqT9q+l3kDX5VfVLjqnI9zJuLuBSxKh4ox4DdB1+a6airnjZw4MbqAhB6VpErWtinuGbCxszPaCQ==
 -----END EC PRIVATE KEY-----
 </PrivateKey><CertificateChain><NumberOfCertificates>3</NumberOfCertificates><Certificate format="pem">-----BEGIN CERTIFICATE-----
