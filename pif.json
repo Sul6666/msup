@@ -1,12 +1,6 @@
 {
-  "FINGERPRINT": "google/comet_beta/comet:16/BP41.250822.010/14082742:user/release-keys",
+  "FINGERPRINT": "google/panther_beta/panther:16/BP41.250916.012.A1/14330953:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9 Pro Fold",
-  "SECURITY_PATCH": "2025-09-05",
-  "spoofBuild": true,
-  "spoofProvider": true,
-  "spoofProps": true,
-  "spoofSignature": false,
-  "DEBUG": false,
-  "spoofVendingSdk": false
+  "MODEL": "Pixel 7",
+  "SECURITY_PATCH": "2025-10-05"
 }
