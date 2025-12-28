@@ -1,26 +1,11 @@
-{
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 8a",
-    "FINGERPRINT": "google/akita_beta/akita:16/BP41.250916.015.A1/14394230:user/release-keys",
-    "BRAND": "google",
-    "PRODUCT": "akita_beta",
-    "DEVICE": "akita",
-    "RELEASE": "16",
-    "ID": "BP41.250916.015.A1",
-    "INCREMENTAL": "14394230",
-    "TYPE": "user",
-    "TAGS": "release-keys",
-    "SECURITY_PATCH": "2025-10-05",
-    "DEVICE_INITIAL_SDK_INT": "32",
-
-    "*.build.id": "BP41.250916.015.A1",
-    "*.security_patch": "2025-10-05",
-    "*api_level": "32",
-
-    "spoofBuild": "1",
-    "spoofProps": "1",
-    "spoofProvider": "0",
-    "spoofSignature": "0",
-    "spoofVendingSdk": "0",
-    "verboseLogs": "0"
-}
+FINGERPRINT=google/comet_beta/comet:16/BP41.250916.015.A1/14394230:user/release-keys
+MANUFACTURER=Google
+MODEL=Pixel 9 Pro Fold
+SECURITY_PATCH=2025-12-05
+spoofBuild=true
+spoofProps=false
+spoofProvider=false
+spoofSignature=false
+spoofVendingBuild=true
+spoofVendingSdk=false
+DEBUG=false
