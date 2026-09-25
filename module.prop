@@ -1,0 +1,8 @@
+id=playintegrityfix
+name=Play Integrity Fix
+version=v19.9102
+versionCode=199102
+author=chiteroman @root3rb
+description=Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-16 🟢🟢🟢
+banner=https://raw.githubusercontent.com/Sul6666/msup/refs/heads/main/Root3rb.png
+updateJson=https://raw.githubusercontent.com/Sul6666/msup/refs/heads/main/update13.json
