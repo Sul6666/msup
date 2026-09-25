@@ -2,7 +2,6 @@ com.cibeg.ddc1.digitalbanking.live
 io.github.vvb2060.keyattestation
 io.github.vvb2060.mahoshojo
 com.google.android.gms
-com.google.android.gsf
 com.vng.pubgmobile
 com.android.vending
 icu.nullptr.nativetest
@@ -13,3 +12,6 @@ com.rekoo.pubgm
 com.tencent.ig
 com.whatsapp
 com.reveny.nativecheck
+com.twitter.android
+com.maan.hrco
+com.t2.AvailoHader
