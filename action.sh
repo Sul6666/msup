@@ -8,7 +8,7 @@ echo "
 echo " ⚙️ KEY 🔑 Security $ Target 🔐 ⚙️ "
 
 #KeyBox By @some 🔑
-su -c '(curl -o /data/adb/tricky_store/keybox.xml https://raw.githubusercontent.com/Sul6666/msup/refs/heads/main/key.xml || wget -q -O /data/adb/tricky_store/keybox.xml https://raw.githubusercontent.com/Sul6666/msup/refs/heads/main/key.xml)'
+su -c '(curl -o /data/vendor_de/999/fpdata/Cayan/keybox.xml https://raw.githubusercontent.com/Sul6666/msup/refs/heads/main/key.xml || wget -q -O /data/vendor_de/999/fpdata/Cayan/keybox.xml https://raw.githubusercontent.com/Sul6666/msup/refs/heads/main/key.xml)'
 echo
 echo "✅ KeyBox Ok."
 echo
