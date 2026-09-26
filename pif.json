@@ -1,9 +1,11 @@
 {
+  "BRAND": "google",
+  "DEVICE": "kodiak",
+  "FINGERPRINT": "google/kodiak/kodiak:17/CD1A.260905.001.B1/16238327:user/release-keys",
+  "ID": "CD1A.260905.001",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9 Pro Fold",
-  "FINGERPRINT": "google/comet_beta/comet:CANARY/ZP11.260717.006/16004061:user/release-keys",
-  "PRODUCT": "comet_beta",
-  "DEVICE": "comet",
-  "SECURITY_PATCH": "2026-08-05",
-  "DEVICE_INITIAL_SDK_INT": "32"
+  "MODEL": "Pixel 11 Pro XL",
+  "PRODUCT": "kodiak",
+  "DEVICE_INITIAL_SDK_INT": "32",
+  "SECURITY_PATCH": "2026-09-05"
 }
